@@ -3,3 +3,8 @@
 ```bash
 ./do.sh
 ```
+
+## 运行
+```bash
+./mesh-demo.bin
+```
